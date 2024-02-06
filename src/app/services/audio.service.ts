@@ -573,7 +573,7 @@ export class AudioService {
 
       }
 
-    }, 1000)
+    }, 100)
 
   }
 
